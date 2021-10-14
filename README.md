@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-- I'm currently learning Swift And English.
-
-![weekly_writing](https://user-images.githubusercontent.com/19667818/137321561-af427c26-3d09-4bbc-865a-c29980cf5581.png)
-![weekly_speaking](https://user-images.githubusercontent.com/19667818/137322084-ec27108a-ca43-4864-bee8-e61e2a333f4e.png)
-![text_intro](https://user-images.githubusercontent.com/19667818/137322107-00102088-3b7f-4401-ace1-c073784d0e53.png)
-![audio_intro](https://user-images.githubusercontent.com/19667818/137322118-ac694fbf-06b9-49b4-9003-64bc3afc1591.png)
+- I'm currently learning Swift.
 
 <!--
 **engtecmat/engtecmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
